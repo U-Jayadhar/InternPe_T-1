@@ -22,7 +22,7 @@ The dataset used in this project is provided in the file `diabetes data.csv`. Th
 
 1. Clone the Repository
    ```sh
-     git clone https://github.com/U-Jayadhar/InternPe_T-1.git
+   git clone https://github.com/U-Jayadhar/InternPe_T-1.git
    ```
 2. Navigate to the project directory:
    ```sh
