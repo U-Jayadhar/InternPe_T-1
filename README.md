@@ -1,6 +1,6 @@
 # InternPe_T-1
 
-## Task-1 of AI-ML Internship at InternPe
+## Assignment-1 of AI-ML Internship at InternPe
 
 _Make a Diabetes Prediction with ML_
 
@@ -15,7 +15,7 @@ The dataset used in this project is provided in the file `diabetes data.csv`. Th
 ## Project Structure
 
 - `diabetes data.csv`: The dataset used for training and testing the model.
-- `T1_model.ipynb`: Jupyter Notebook containing the complete code for data preprocessing, model training, prediction, and evaluation.
+- `diabetes.ipynb`: Jupyter Notebook containing the complete code for data preprocessing, model training, prediction, and evaluation.
 - `README.md`: This file, providing an overview and instructions for the project.
 
 ## Installation
